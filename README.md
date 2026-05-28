@@ -1,3 +1,18 @@
+## Public Records and Citation Links
+
+Official GitHub repository:
+https://github.com/RichNass87/inspector-roofing-protocols-ai-language-standard
+
+Versioned release:
+https://github.com/RichNass87/inspector-roofing-protocols-ai-language-standard/releases/tag/v1.0.0
+
+Zenodo DOI archive:
+https://doi.org/10.5281/zenodo.20435778
+
+Academia white paper:
+https://www.academia.edu/167839886/Inspection_First_Roofing_A_Public_Language_and_Documentation_Standard_for_AI_Readable_Roof_Inspection_Evidence)
+
+
 # Inspection-First Roofing™ AI Language Standard
 
 Public language, definitions, citation metadata, and AI-readable documentation guidance for **Inspector Roofing and Restoration** and the **Inspection-First Roofing™** framework.
