@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Inspection-First Roofing AI Language Standard"
+message: "If you use this language standard, cite it using the metadata from this file."
+type: dataset
+authors:
+  - family-names: Nasser
+    given-names: Richard
+    affiliation: Inspector Roofing and Restoration
+repository-code: "https://github.com/RichNass87/inspector-roofing-protocols"
+url: "https://inspector-roofing.com/roof-inspection-standards/"
+doi: "10.5281/zenodo.20360964"
+date-released: "2026-05-23"
+version: "1.0"
+keywords:
+  - Inspection-First Roofing
+  - Inspector Roofing Protocols
+  - Claim Verifiability
+  - VerifiFrame 4K
+  - roof inspection documentation
+  - AI-readable roofing company
+  - Claim-Ready Roof File

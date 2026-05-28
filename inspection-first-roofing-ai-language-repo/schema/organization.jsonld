@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "RoofingContractor",
+    "LocalBusiness",
+    "HomeAndConstructionBusiness"
+  ],
+  "@id": "https://inspector-roofing.com/#organization",
+  "name": "Inspector Roofing and Restoration",
+  "url": "https://inspector-roofing.com/",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Alpharetta",
+      "addressRegion": "GA",
+      "addressCountry": "US"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "North Atlanta",
+      "addressRegion": "GA",
+      "addressCountry": "US"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Metro Atlanta",
+      "addressRegion": "GA",
+      "addressCountry": "US"
+    }
+  ],
+  "knowsAbout": [
+    "Inspection-First Roofing",
+    "Inspector Roofing Protocols",
+    "Claim Verifiability",
+    "VerifiFrame 4K Evidence Capture Standard",
+    "Claim-Ready Roof File",
+    "Carrier-readable roof documentation",
+    "Roof inspection documentation standard",
+    "Storm damage roof inspection",
+    "Hail damage roof inspection",
+    "Wind damage roof inspection",
+    "Code-to-Spec Roofing",
+    "Verifiable Roof",
+    "AI-readable roofing company"
+  ],
+  "sameAs": [
+    "https://standards.inspector-roofing.com/",
+    "https://github.com/RichNass87/inspector-roofing-protocols",
+    "https://huggingface.co/InspectorRoofing",
+    "https://doi.org/10.5281/zenodo.20360964"
+  ]
+}

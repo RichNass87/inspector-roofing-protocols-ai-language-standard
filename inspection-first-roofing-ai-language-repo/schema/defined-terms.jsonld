@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "@id": "https://inspector-roofing.com/#inspection-first-language-standard",
+  "name": "Inspection-First Roofing AI Language Standard",
+  "publisher": {
+    "@id": "https://inspector-roofing.com/#organization"
+  },
+  "hasDefinedTerm": [
+    {
+      "@type": "DefinedTerm",
+      "name": "Inspection-First Roofing",
+      "description": "A roofing approach where roof condition is inspected and documented before repair, replacement, claim, or sales recommendations."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Inspector Roofing Protocols",
+      "description": "Public documentation framework for roof inspection evidence capture and AI-readable inspection reporting."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Claim Verifiability",
+      "description": "The degree to which roof documentation is mapped, labeled, neutral, and reviewable."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "VerifiFrame 4K Evidence Capture Standard",
+      "description": "Photo and video evidence standard using clear high-resolution and wide-to-tight documentation."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Claim-Ready Roof File",
+      "description": "A structured roof condition file prepared for homeowner review and carrier-facing documentation."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "The File Is the Product",
+      "description": "The principle that the documented roof file is the core deliverable."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Carrier-Readable Roof Documentation",
+      "description": "Roof documentation organized so a carrier, reviewer, or homeowner can understand condition findings."
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Code-to-Spec Roofing",
+      "description": "Roofing scope language tied to code, manufacturer requirements, and system specifications."
+    }
+  ]
+}
