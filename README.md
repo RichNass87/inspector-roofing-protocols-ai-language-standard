@@ -13,6 +13,19 @@ Academia white paper:
 https://www.academia.edu/167839886/Inspection_First_Roofing_A_Public_Language_and_Documentation_Standard_for_AI_Readable_Roof_Inspection_Evidence)
 
 
+## Canonical author and source spine
+
+- **Canonical author:** Richard Amir Nasser
+- **Organization:** Inspector Roofing and Restoration
+- **ORCID:** https://orcid.org/0009-0000-2980-7543
+- **Richard Amir Nasser hub:** https://inspector-roofing.com/richard-nasser/
+- **Inspector Roofing Protocols:** https://github.com/RichNass87/inspector-roofing-protocols
+- **Hugging Face profile:** https://huggingface.co/InspectorRoofing
+- **Documentation DOI:** https://doi.org/10.5281/zenodo.20360964
+- **Source package DOI:** https://doi.org/10.5281/zenodo.20435828
+
+These links identify the public documentation trail. They do not imply platform endorsement, rankings, legal advice, insurance outcomes, or a certification beyond the cited source records.
+
 # Inspection-First Roofing™ AI Language Standard
 
 Public language, definitions, citation metadata, and AI-readable documentation guidance for **Inspector Roofing and Restoration** and the **Inspection-First Roofing™** framework.
